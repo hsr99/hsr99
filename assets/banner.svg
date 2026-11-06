@@ -1,0 +1,10 @@
+<svg width="760" height="150" viewBox="0 0 760 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f6d5f7"/><stop offset="0.5" stop-color="#fbe9d7"/><stop offset="1" stop-color="#d5e8f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="760" height="150" rx="14" fill="url(#g)"/>
+  <text x="36" y="70" font-family="Georgia, 'Times New Roman', serif" font-size="40" fill="#23202b">Hridya Shree R</text>
+  <text x="37" y="105" font-family="Verdana, sans-serif" font-size="16" letter-spacing="2.5" fill="#5b5566">AI ENGINEER &amp; DATA SCIENTIST · CHENNAI</text>
+</svg>
