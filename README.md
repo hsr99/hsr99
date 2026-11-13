@@ -14,9 +14,9 @@ I'm an AI engineer working at **Mindsprint**. I'm the kind of person who takes t
 
 | | |
 |-|-|
-| 🤖 **Agentic systems** | Multi-turn agents and workflow automation with **LangChain** & **LangGraph** - lately, tooling that evaluates what models produce |
-| 🧠 **Machine learning** | Pattern-learning on vehicle telemetry and deep-learning geofencing - plus an LLM-powered hiring tool that cut about a week out of resume screening |
-| 🔬 **Research** | Persona induction and agentic system design, on a funded R&D project with research professors |
+| 🤖 **Agentic systems** | Multi-turn agents and workflow automation: systems that plan, use tools, and handle multi-step tasks, built with **LangChain and LangGraph**  |
+| 🧠 **Machine learning** | Models that find patterns in messy real-world data like sensor readings and time-series streams, from classic ML to deep learning |
+| 🔬 **Research** | Exploring how language models behave and how to tell whether their outputs are any good |
 
 ### Off the keyboard
 
